@@ -1,4 +1,4 @@
-#Search images 
+## Search images 
 
 This is a basic react app for searching images
 
